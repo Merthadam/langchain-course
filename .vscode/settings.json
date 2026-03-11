@@ -1,0 +1,6 @@
+{
+  "errorLens.enabled": true,
+  "errorLens.enableDiagnostics": true,
+  "errorLens.delay": 0,
+  "python.analysis.typeCheckingMode": "basic"
+}
